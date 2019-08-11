@@ -1,0 +1,45 @@
+/*navbar*/
+.NavbarImage{
+	height: 20px;
+	width: 20px;
+	margin-top: -8px;
+}
+
+/* Log In dialog */
+.modal-header{
+	background-color: aquamarine;
+}
+
+
+/*main*/
+.main{
+    font-family: 'Concert One', cursive;
+	padding: 250px 50px 250px 50px;
+    -webkit-background-size: cover;
+    background-size: cover;
+	background: url("image/1_Working.jpg");
+	color: aliceblue;
+}
+
+#mainTitle{
+	margin-left: 45%;
+	margin-top: 12%;
+	margin-bottom: 10%;
+	height: 100%;
+}
+
+
+/* myCarousel */
+ol.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+}
+
+#myCarousel{
+	margin: 0px 10%;
+}
+
+
+.background{
+	background-color: rgba(248, 186, 144, 0.2);
+}
